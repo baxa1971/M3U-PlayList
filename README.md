@@ -1,1 +1,1 @@
-# M3U-PlayList
+playlist.m3u
